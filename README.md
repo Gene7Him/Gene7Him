@@ -7,13 +7,25 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gene7Him&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gene7Him/Gene7Him/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Gene7Him&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&layout=donut&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
