@@ -10,14 +10,6 @@
 
 ---
 
-### 🛠️ Projects
-
-- 🚛 [**OpsTrack Central**](https://github.com/Gene7Him/ops-track-central): One app for HVAC, generator, and fleet maintenance  
-- 🏠 [**FairHouse**](https://github.com/Gene7Him/fairhouse): Corporate pricing accountability in real estate  
-- 🧠 **CodeCrank** *(coming soon)*: Run, analyze, and optimize GitHub repos in Dockerized playgrounds
-
----
-
 ### 💻 Tech Stack
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
@@ -30,15 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gene7Him&theme=tokyonight&background=EB075&ia=web" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 📬 Connect
 
-- 🌐 [Portfolio](https://yourdomain.com)
 - 🐙 [GitHub](https://github.com/Gene7Him)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eugenefaison7)
 
