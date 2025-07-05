@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center"> Eugene </h2>
 
-<!--
-**Gene7Him/Gene7Him** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gene7Him&color=blueviolet&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gene7Him&theme=tokyonight&background=EB075&ia=web" />
+</p>
