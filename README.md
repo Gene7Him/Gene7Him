@@ -12,9 +12,6 @@
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&layout=donut&theme=tokyonight&hide_border=true" />
     </td>
-    <td>
-      <img align="left" src="https://streak-stats.demolab.com/?user=Gene7Him&theme=tokyonight&hide_border=true" />
-    </td>
   </tr>
 </table>
 
