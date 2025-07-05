@@ -12,7 +12,7 @@
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&layout=donut&theme=tokyonight&hide_border=true"
         alt="Top Languages"
       />
