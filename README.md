@@ -10,9 +10,6 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gene7Him&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&layout=donut&theme=tokyonight&hide_border=true" />
     </td>
     <td>
