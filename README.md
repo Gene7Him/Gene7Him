@@ -13,13 +13,6 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Gene7Him&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-        alt="Total GitHub Contributions"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gene7Him&layout=donut&theme=tokyonight&hide_border=true"
         alt="Top Languages"
       />
